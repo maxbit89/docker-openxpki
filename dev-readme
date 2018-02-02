@@ -1,0 +1,5 @@
+Install instructions:
+http://openxpki.readthedocs.io/en/latest/quickstart.html
+
+Example Dockerfile:
+https://github.com/docker-library/httpd/blob/17166574dea6a8c574443fc3a06bdb5a8bc97743/2.4/Dockerfile
