@@ -3,3 +3,5 @@ http://openxpki.readthedocs.io/en/latest/quickstart.html
 
 Example Dockerfile:
 https://github.com/docker-library/httpd/blob/17166574dea6a8c574443fc3a06bdb5a8bc97743/2.4/Dockerfile
+
+https://tryolabs.com/blog/2015/03/26/configurable-docker-containers-for-multiple-environments/
